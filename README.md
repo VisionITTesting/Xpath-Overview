@@ -15,7 +15,7 @@
               
 ---
 
-![Image](Xpath_%(1).jpg)
+![](Xpath_%(1).jpg)
 
 ---
 
